@@ -140,7 +140,7 @@ teks3       db 13,10,'                                       '
         db 13,10,'Terima Kasih $' 
         
 teks4       db 13,10,'                                       '
-        db 13,10,'Jenis Golongan Karyawan Yang anda pilih Yaitu B  '
+        db 13,10,'Jenis Golongan Karyawan Yang anda pilih Yaitu D  '
         db 13,10,'Gaji yang anda dapatkan yaitu sebesar  : Rp.1.000.00 (Belum Bonus Lembur) '
         db 13,10,'Terima Kasih $' 
 
