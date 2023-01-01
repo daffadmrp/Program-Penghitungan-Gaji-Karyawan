@@ -4,7 +4,7 @@ org 100h
 start:
     jmp mulai
 nama        db 13,10,'Nama  Karyawan : $'
-nomor       db 13,10,'Jenis Karyawan : $'
+nomor       db 13,10,'Nomor Karyawan : $'
 lanjut      db 13,10,'Untuk Memilih Jenis Golongan silahkan tekan y  $'
 tampung_nama     db 30,?,30 dup(?)
 tampung_jenis    db 13,?,13 dup(?)
