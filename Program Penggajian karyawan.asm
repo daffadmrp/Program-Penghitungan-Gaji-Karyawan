@@ -25,7 +25,7 @@ daftar  db 13,10,'                       Daftar Gaji Karyawan                   
         db 13,10,' 4.  Golongan D                                          RP.100.OOO   '
 
 
-error       db 13,10,'Jenis Golongan Karyawan Anda tidak ada !!! $'
+error       db 13,10,'Golongan yang anda pilih tidak ada dalam menu !!! $'
 pilih       db 13,10,'Masukkan Golongan Karyawan :  $'
 success db 13,10,'Anda Berhasil Mengecek Gaji Karyawan (belum bonus Lembur)'
 
